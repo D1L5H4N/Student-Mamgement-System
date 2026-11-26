@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# H2 Database files
+*.db
+*.mv.db
+*.trace.db
+
+# Log files
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# OS specific files
+.DS_Store
+Thumbs.db
